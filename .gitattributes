@@ -1,5 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-desktop/Real_Estate_Sales_2001-2020_GL_same[[:space:]]data[[:space:]]as[[:space:]]House[[:space:]]Prices
- filter=lfs diff=lfs merge=lfs -text
-desktop/Real_Estate_Sales_2001-2020_GL_same[[:space:]]data[[:space:]]as[[:space:]]House[[:space:]]Prices.zip filter=lfs diff=lfs merge=lfs -text
