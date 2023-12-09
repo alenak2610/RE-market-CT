@@ -1,7 +1,8 @@
 # Real-Estate-Market-CT
 ## Fall 2023    
 __This is README.md document for the DATA 6505 Project.__ 
-__Jesse Veilleux, Alena Kryvetskaya, Nhung Pham__
+##### Professor: Lee Tanenbaum
+###### Authors:Jesse Veilleux, Alena Kryvetskaya, Nhung Pham
 
 # PROJECT - Predicting Housing Prices in CT
 
