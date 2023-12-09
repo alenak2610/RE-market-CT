@@ -4,7 +4,9 @@ __This is README.md document for the DATA 6505 Project.__
 
 # PROJECT - Predicting Housing Prices in CT
 
-<img C:\Users\alena\OneDrive\Documents\DATA 6505\Project\Screenshot 2023-12-09 161908.png />
+<img src="https://github.com/alenak2610/RE-market-CT/master/Screenshot 2023-12-09 161908.png"
+     alt="map 3"
+     style="float: left; margin-right: 10px;" />
 
 # OVERVIEW
 
