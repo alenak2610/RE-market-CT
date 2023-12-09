@@ -4,6 +4,10 @@ __This is README.md document for the DATA 6505 Project.__
 
 # PROJECT - Predicting Housing Prices in CT
 
+<img src="https://github.com/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/the%20big%20apple.png"
+     alt="map 3"
+     style="float: left; margin-right: 10px;" />
+
 # OVERVIEW
 
 This project involves creating a model that predicts housing prices based on various features such as property type, location, assessed value, etc. 
