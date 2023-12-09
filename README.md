@@ -10,7 +10,7 @@ This project involves creating a model that predicts housing prices based on var
 
 # SOURCE OF DATASET
 
-The dataset used for our project was obtained from the platform Kaggle. A dataset contains information about houses including features like square footage, number of bedrooms, location, etc. ......
+The dataset used for our project was obtained from the platform Kaggle and Google search engine. It contains information about real estate transactions on the state of Connecticut for the 2001-2020 period. Each row in the dataset represents a single real estate transaction, and the columns provide details about each transaction. For each sale record, the file includes: town, property address, date of sale, property type (residential, apartment, commercial, industrial or vacant land), sales price, and property assessment.
 
 # CHALLENGES
 
