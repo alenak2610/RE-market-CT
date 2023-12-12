@@ -24,6 +24,5 @@ The dataset used for our project was obtained from the following platforms: Kagg
 
 - Comparing datasets with relevant information
 - Extrapolating useful information from datasets
-- Overlapping data - redundant information
-- We will have to make assumptions based on - mortgage rates - has political implications - baises 
-- Gathering additional information from relevant datasets 
+- Merging datasets
+
