@@ -25,4 +25,6 @@ The dataset used for our project was obtained from the following platforms: Kagg
 - Comparing datasets with relevant information
 - Extrapolating useful information from datasets
 - Merging datasets
+- Creating an accurate predictive model
+
 
