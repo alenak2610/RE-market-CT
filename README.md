@@ -13,7 +13,7 @@ __This is README.md document for the DATA 6505 Project.__
 
 # OVERVIEW
 
-This project involves creating a model that predicts housing prices based on various features such as property type, location, assessed value, etc. 
+This project involves creating a model that analyses housing prices based on various features such as property type, location, assessed value, number of beds, etc. 
 Model training using Python, NumPy, Pandas for statistics and Matplotlib for vizualization apply. 
 
 # SOURCE OF DATASET
