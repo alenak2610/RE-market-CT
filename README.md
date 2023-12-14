@@ -5,7 +5,7 @@ __This is README.md document for the DATA 6505 Project.__
 ##### Professor: Lee Tanenbaum
 ##### Authors: Jesse Veilleux, Alena Kryvetskaya, Nhung Pham
 
-# PROJECT - Predicting Housing Prices in CT
+# PROJECT - Analysis of Housing Prices in CT (2001-2020)
 
 <img src="https://github.com/alenak2610/RE-market-CT/blob/main/CT%20state.png"
      alt="map 3"
