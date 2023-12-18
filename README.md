@@ -27,5 +27,11 @@ The dataset used for our project was obtained from the following platforms: Kagg
 - Merging datasets
 - Creating statistical metrics for analysing house prices
 
+# KEY LINKS:
+
+* [DATASET (CSV FILES)] ()
+* [NOTEBOOKS] ()
+* [FINAL NOTEBOOK] ()
+* [CT MAP] ()
 
 
