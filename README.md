@@ -46,7 +46,7 @@ In summary, this analysis supports users with the knowledge needed to navigate t
 
 * [DATASET (CSV FILES)](https://github.com/alenak2610/Real-Estate-Market-CT/tree/main/All%20Workbooks/DataSets)
 * [NOTEBOOKS](https://github.com/alenak2610/Real-Estate-Market-CT/tree/main/All%20Workbooks)
-* [FINAL NOTEBOOK] ()
+* [FINAL NOTEBOOK] (https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/All%20Workbooks/final_proj.ipynb)
 * [CT MAP](https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/CT%20state.png)
 
 
