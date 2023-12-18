@@ -30,8 +30,8 @@ The dataset used for our project was obtained from the following platforms: Kagg
 # KEY LINKS:
 
 * [DATASET (CSV FILES)](https://github.com/alenak2610/Real-Estate-Market-CT/tree/main/All%20Workbooks/DataSets)
-* [NOTEBOOKS] ()
+* [NOTEBOOKS](https://github.com/alenak2610/Real-Estate-Market-CT/tree/main/All%20Workbooks)
 * [FINAL NOTEBOOK] ()
-* [CT MAP] ()
+* [CT MAP](https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/CT%20state.png)
 
 
