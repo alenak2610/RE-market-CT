@@ -48,7 +48,7 @@ In summary, this analysis supports users with the knowledge needed to navigate t
 * [NOTEBOOKS](https://github.com/alenak2610/Real-Estate-Market-CT/tree/main/All%20Workbooks)
 * [HOUSE SIZES](https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/All%20Workbooks/House_sizes.ipynb)
 * [FINAL PROJ](https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/All%20Workbooks/final_proj.ipynb)
-* [PROPERTY TYPE & HOUSE SIZE](https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/All%20Workbooks/Property_Type_%26_House_Size.ipynb)
+* [PROPERTY TYPE & HOUSE SIZE](https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/All%20Workbooks/Property_Type_%26_House_Size%20(3).ipynb)
 * [CT MAP](https://github.com/alenak2610/Real-Estate-Market-CT/blob/main/CT%20state.png)
 
 
