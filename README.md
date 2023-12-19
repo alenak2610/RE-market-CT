@@ -32,9 +32,9 @@ The dataset used for our project was obtained from the following platforms: Kagg
 Our analysis of the housing data provides valuable insights for individuals looking to navigate the real estate market in the state of Connecticut. Through various visualizations and data manipulations, we have uncovered trends and patterns that explain various aspects of the housing scenario in Connecticut for the period from 2001 to 2020.
 
 ##### Town-specific trends: 
-We examined average price trends for both the most and least expensive towns, offering a comprehensive view of how housing prices have fluctuated over the years for these types of towns. This information can be crucial for potential buyers or sellers in these areas.
+We examined average price trends for both the most and least expensive towns, offering a comprehensive view of how housing prices have fluctuated over the years for these types of towns. This information can be crucial for potential buyers or sellers in these areas. 
 ##### Price Trends over time: 
-The historical analysis of house prices from 2001 to 2020 provides a broader review of market dynamics. It allows us to identify periods of growth or decline, supporting in strategic decision-making for those interested in long-term investments.
+The historical analysis of house prices from 2001 to 2020 provides a broader review of market dynamics. It allows us to identify periods of growth or decline, supporting in strategic decision-making for those interested in long-term investments. It can be seen that when average home sale prices decrease, the number of houses sold increase. Popular months to sell houses are in the summer and less popular in the winter season.
 ##### Bedroom-Town analysis: 
 By allowing users to input the number of bedrooms and a specific town, the analysis enables personalized insights into the average price trends. This information can guide prospective homebuyers in making informed decisions based on their preferences and budget.
 ##### Affordability Analysis: 
